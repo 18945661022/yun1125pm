@@ -1,0 +1,173 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+#include "class-internals.h"
+#include "codegen/il2cpp-codegen.h"
+
+extern "C" void ErrorData_t35_marshal ();
+extern "C" void ErrorData_t35_marshal_back ();
+extern "C" void ErrorData_t35_marshal_cleanup ();
+extern "C" void EyewearCalibrationReading_t713_marshal ();
+extern "C" void EyewearCalibrationReading_t713_marshal_back ();
+extern "C" void EyewearCalibrationReading_t713_marshal_cleanup ();
+extern "C" void TrackableResultData_t769_marshal ();
+extern "C" void TrackableResultData_t769_marshal_back ();
+extern "C" void TrackableResultData_t769_marshal_cleanup ();
+extern "C" void WordResultData_t773_marshal ();
+extern "C" void WordResultData_t773_marshal_back ();
+extern "C" void WordResultData_t773_marshal_cleanup ();
+extern "C" void AutoRotationState_t781_marshal ();
+extern "C" void AutoRotationState_t781_marshal_back ();
+extern "C" void AutoRotationState_t781_marshal_cleanup ();
+extern "C" void VideoBGCfgData_t791_marshal ();
+extern "C" void VideoBGCfgData_t791_marshal_back ();
+extern "C" void VideoBGCfgData_t791_marshal_cleanup ();
+extern "C" void TargetSearchResult_t146_marshal ();
+extern "C" void TargetSearchResult_t146_marshal_back ();
+extern "C" void TargetSearchResult_t146_marshal_cleanup ();
+extern "C" void TargetFinderState_t846_marshal ();
+extern "C" void TargetFinderState_t846_marshal_back ();
+extern "C" void TargetFinderState_t846_marshal_cleanup ();
+extern "C" void GcAchievementData_t1040_marshal ();
+extern "C" void GcAchievementData_t1040_marshal_back ();
+extern "C" void GcAchievementData_t1040_marshal_cleanup ();
+extern "C" void GcScoreData_t1041_marshal ();
+extern "C" void GcScoreData_t1041_marshal_back ();
+extern "C" void GcScoreData_t1041_marshal_cleanup ();
+extern "C" void TrackedReference_t1088_marshal ();
+extern "C" void TrackedReference_t1088_marshal_back ();
+extern "C" void TrackedReference_t1088_marshal_cleanup ();
+extern "C" void WebCamDevice_t1014_marshal ();
+extern "C" void WebCamDevice_t1014_marshal_back ();
+extern "C" void WebCamDevice_t1014_marshal_cleanup ();
+extern "C" void AnimationEvent_t1117_marshal ();
+extern "C" void AnimationEvent_t1117_marshal_back ();
+extern "C" void AnimationEvent_t1117_marshal_cleanup ();
+extern "C" void AnimationCurve_t1121_marshal ();
+extern "C" void AnimationCurve_t1121_marshal_back ();
+extern "C" void AnimationCurve_t1121_marshal_cleanup ();
+extern "C" void SkeletonBone_t1128_marshal ();
+extern "C" void SkeletonBone_t1128_marshal_back ();
+extern "C" void SkeletonBone_t1128_marshal_cleanup ();
+extern "C" void HumanBone_t1130_marshal ();
+extern "C" void HumanBone_t1130_marshal_back ();
+extern "C" void HumanBone_t1130_marshal_cleanup ();
+extern "C" void WaitForSeconds_t152_marshal ();
+extern "C" void WaitForSeconds_t152_marshal_back ();
+extern "C" void WaitForSeconds_t152_marshal_cleanup ();
+extern "C" void Coroutine_t338_marshal ();
+extern "C" void Coroutine_t338_marshal_back ();
+extern "C" void Coroutine_t338_marshal_cleanup ();
+extern "C" void ScriptableObject_t1157_marshal ();
+extern "C" void ScriptableObject_t1157_marshal_back ();
+extern "C" void ScriptableObject_t1157_marshal_cleanup ();
+extern "C" void CharacterInfo_t1173_marshal ();
+extern "C" void CharacterInfo_t1173_marshal_back ();
+extern "C" void CharacterInfo_t1173_marshal_cleanup ();
+extern "C" void Gradient_t1178_marshal ();
+extern "C" void Gradient_t1178_marshal_back ();
+extern "C" void Gradient_t1178_marshal_cleanup ();
+extern "C" void Event_t339_marshal ();
+extern "C" void Event_t339_marshal_back ();
+extern "C" void Event_t339_marshal_cleanup ();
+extern "C" void CacheIndex_t1213_marshal ();
+extern "C" void CacheIndex_t1213_marshal_back ();
+extern "C" void CacheIndex_t1213_marshal_cleanup ();
+extern "C" void AsyncOperation_t1141_marshal ();
+extern "C" void AsyncOperation_t1141_marshal_back ();
+extern "C" void AsyncOperation_t1141_marshal_cleanup ();
+extern "C" void Touch_t137_marshal ();
+extern "C" void Touch_t137_marshal_back ();
+extern "C" void Touch_t137_marshal_cleanup ();
+extern "C" void Object_t147_marshal ();
+extern "C" void Object_t147_marshal_back ();
+extern "C" void Object_t147_marshal_cleanup ();
+extern "C" void YieldInstruction_t1150_marshal ();
+extern "C" void YieldInstruction_t1150_marshal_back ();
+extern "C" void YieldInstruction_t1150_marshal_cleanup ();
+extern "C" void X509ChainStatus_t1512_marshal ();
+extern "C" void X509ChainStatus_t1512_marshal_back ();
+extern "C" void X509ChainStatus_t1512_marshal_cleanup ();
+extern "C" void IntStack_t1554_marshal ();
+extern "C" void IntStack_t1554_marshal_back ();
+extern "C" void IntStack_t1554_marshal_cleanup ();
+extern "C" void Interval_t1560_marshal ();
+extern "C" void Interval_t1560_marshal_back ();
+extern "C" void Interval_t1560_marshal_cleanup ();
+extern "C" void UriScheme_t1589_marshal ();
+extern "C" void UriScheme_t1589_marshal_back ();
+extern "C" void UriScheme_t1589_marshal_cleanup ();
+extern "C" void Context_t1682_marshal ();
+extern "C" void Context_t1682_marshal_back ();
+extern "C" void Context_t1682_marshal_cleanup ();
+extern "C" void PreviousInfo_t1683_marshal ();
+extern "C" void PreviousInfo_t1683_marshal_back ();
+extern "C" void PreviousInfo_t1683_marshal_cleanup ();
+extern "C" void Escape_t1684_marshal ();
+extern "C" void Escape_t1684_marshal_back ();
+extern "C" void Escape_t1684_marshal_cleanup ();
+extern "C" void MonoIOStat_t1800_marshal ();
+extern "C" void MonoIOStat_t1800_marshal_back ();
+extern "C" void MonoIOStat_t1800_marshal_cleanup ();
+extern "C" void ParameterModifier_t1896_marshal ();
+extern "C" void ParameterModifier_t1896_marshal_back ();
+extern "C" void ParameterModifier_t1896_marshal_cleanup ();
+extern "C" void ResourceInfo_t1907_marshal ();
+extern "C" void ResourceInfo_t1907_marshal_back ();
+extern "C" void ResourceInfo_t1907_marshal_cleanup ();
+extern "C" void DSAParameters_t1412_marshal ();
+extern "C" void DSAParameters_t1412_marshal_back ();
+extern "C" void DSAParameters_t1412_marshal_cleanup ();
+extern "C" void RSAParameters_t1384_marshal ();
+extern "C" void RSAParameters_t1384_marshal_back ();
+extern "C" void RSAParameters_t1384_marshal_cleanup ();
+extern const Il2CppMarshalingFunctions g_MarshalingFunctions[40] = 
+{
+	{ ErrorData_t35_marshal, ErrorData_t35_marshal_back, ErrorData_t35_marshal_cleanup },
+	{ EyewearCalibrationReading_t713_marshal, EyewearCalibrationReading_t713_marshal_back, EyewearCalibrationReading_t713_marshal_cleanup },
+	{ TrackableResultData_t769_marshal, TrackableResultData_t769_marshal_back, TrackableResultData_t769_marshal_cleanup },
+	{ WordResultData_t773_marshal, WordResultData_t773_marshal_back, WordResultData_t773_marshal_cleanup },
+	{ AutoRotationState_t781_marshal, AutoRotationState_t781_marshal_back, AutoRotationState_t781_marshal_cleanup },
+	{ VideoBGCfgData_t791_marshal, VideoBGCfgData_t791_marshal_back, VideoBGCfgData_t791_marshal_cleanup },
+	{ TargetSearchResult_t146_marshal, TargetSearchResult_t146_marshal_back, TargetSearchResult_t146_marshal_cleanup },
+	{ TargetFinderState_t846_marshal, TargetFinderState_t846_marshal_back, TargetFinderState_t846_marshal_cleanup },
+	{ GcAchievementData_t1040_marshal, GcAchievementData_t1040_marshal_back, GcAchievementData_t1040_marshal_cleanup },
+	{ GcScoreData_t1041_marshal, GcScoreData_t1041_marshal_back, GcScoreData_t1041_marshal_cleanup },
+	{ TrackedReference_t1088_marshal, TrackedReference_t1088_marshal_back, TrackedReference_t1088_marshal_cleanup },
+	{ WebCamDevice_t1014_marshal, WebCamDevice_t1014_marshal_back, WebCamDevice_t1014_marshal_cleanup },
+	{ AnimationEvent_t1117_marshal, AnimationEvent_t1117_marshal_back, AnimationEvent_t1117_marshal_cleanup },
+	{ AnimationCurve_t1121_marshal, AnimationCurve_t1121_marshal_back, AnimationCurve_t1121_marshal_cleanup },
+	{ SkeletonBone_t1128_marshal, SkeletonBone_t1128_marshal_back, SkeletonBone_t1128_marshal_cleanup },
+	{ HumanBone_t1130_marshal, HumanBone_t1130_marshal_back, HumanBone_t1130_marshal_cleanup },
+	{ WaitForSeconds_t152_marshal, WaitForSeconds_t152_marshal_back, WaitForSeconds_t152_marshal_cleanup },
+	{ Coroutine_t338_marshal, Coroutine_t338_marshal_back, Coroutine_t338_marshal_cleanup },
+	{ ScriptableObject_t1157_marshal, ScriptableObject_t1157_marshal_back, ScriptableObject_t1157_marshal_cleanup },
+	{ CharacterInfo_t1173_marshal, CharacterInfo_t1173_marshal_back, CharacterInfo_t1173_marshal_cleanup },
+	{ Gradient_t1178_marshal, Gradient_t1178_marshal_back, Gradient_t1178_marshal_cleanup },
+	{ Event_t339_marshal, Event_t339_marshal_back, Event_t339_marshal_cleanup },
+	{ CacheIndex_t1213_marshal, CacheIndex_t1213_marshal_back, CacheIndex_t1213_marshal_cleanup },
+	{ AsyncOperation_t1141_marshal, AsyncOperation_t1141_marshal_back, AsyncOperation_t1141_marshal_cleanup },
+	{ Touch_t137_marshal, Touch_t137_marshal_back, Touch_t137_marshal_cleanup },
+	{ Object_t147_marshal, Object_t147_marshal_back, Object_t147_marshal_cleanup },
+	{ YieldInstruction_t1150_marshal, YieldInstruction_t1150_marshal_back, YieldInstruction_t1150_marshal_cleanup },
+	{ X509ChainStatus_t1512_marshal, X509ChainStatus_t1512_marshal_back, X509ChainStatus_t1512_marshal_cleanup },
+	{ IntStack_t1554_marshal, IntStack_t1554_marshal_back, IntStack_t1554_marshal_cleanup },
+	{ Interval_t1560_marshal, Interval_t1560_marshal_back, Interval_t1560_marshal_cleanup },
+	{ UriScheme_t1589_marshal, UriScheme_t1589_marshal_back, UriScheme_t1589_marshal_cleanup },
+	{ Context_t1682_marshal, Context_t1682_marshal_back, Context_t1682_marshal_cleanup },
+	{ PreviousInfo_t1683_marshal, PreviousInfo_t1683_marshal_back, PreviousInfo_t1683_marshal_cleanup },
+	{ Escape_t1684_marshal, Escape_t1684_marshal_back, Escape_t1684_marshal_cleanup },
+	{ MonoIOStat_t1800_marshal, MonoIOStat_t1800_marshal_back, MonoIOStat_t1800_marshal_cleanup },
+	{ ParameterModifier_t1896_marshal, ParameterModifier_t1896_marshal_back, ParameterModifier_t1896_marshal_cleanup },
+	{ ResourceInfo_t1907_marshal, ResourceInfo_t1907_marshal_back, ResourceInfo_t1907_marshal_cleanup },
+	{ DSAParameters_t1412_marshal, DSAParameters_t1412_marshal_back, DSAParameters_t1412_marshal_cleanup },
+	{ RSAParameters_t1384_marshal, RSAParameters_t1384_marshal_back, RSAParameters_t1384_marshal_cleanup },
+	NULL,
+};
